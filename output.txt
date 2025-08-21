@@ -1,0 +1,12 @@
+ ```json
+{
+  "1": "Classe que representa um componente de indicador de caixas de seleção.",
+  "2": "Método chamado quando as propriedades do componente são atualizadas. Atualiza o estado com novos valores de checkbox.",
+  "3": "Função que verifica se um filtro proibido está sendo aplicado. Retorna verdadeiro se algum filtro proibido for encontrado, falso caso contrário.",
+  "4": "Método render para exibir o componente de indicador de caixas de seleção. Define valores desabilitados e os elementos da caixa de seleção com base nas propriedades passadas.",
+  "5": "Encontra o filtro de pesquisa na lista de filtros selecionados.",
+  "6": "Se o elemento nulo não for encontrado, define o valor do checkbox como verdadeiro.",
+  "7": "Se um elemento nulo for encontrado, ajusta o valor do checkbox para verdadeiro considerando a posição anterior.",
+  "8": "Renderização condicional da interface do usuário com base no estado de desabilitação e na abertura/fechamento do collapse."
+}
+```
