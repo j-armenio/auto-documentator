@@ -1,1 +1,0 @@
-/home/armenio/gitClone/labdados-ui/src/components/indicador/ListaFiltrosComponent.js
